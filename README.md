@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @NKJM-R
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Welcome yasukotelin Github Page🧸
 
-<!---
-NKJM-R/NKJM-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Github](https://img.shields.io/github/followers/yasukotelin?label=Follow&style=social)](https://github.com/nkjm-r)
+
+* Android developer🚀
+* I love Vim and Gopher.
+* Vim colorscheme shirotelin author.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasukotelin&hide=html)
+![yasukotelin's github stats](https://github-readme-stats.vercel.app/api?username=yasukotelin&show_icons=true&count_private=true&line_height=40)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yasukotelin)](https://github.com/ryo-ma/github-profile-trophy)
